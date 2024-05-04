@@ -16,7 +16,7 @@ export default function Home() {
         </div>
         <Features />
       </main>
-      <footer className="flex justify-center fixed bottom-0 right-0 left-0 text-center">
+      <footer className="flex justify-center fixed bottom-0 right-0 left-0 text-center bg-secondary py-4">
         <p>Copyright ©2024 ClientMaster. All rights reserved.</p>
       </footer>
     </div>
